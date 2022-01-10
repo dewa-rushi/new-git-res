@@ -224,10 +224,13 @@ SECTION-3 (Pushing assignments to remote repository) - Steps to follow:
 40.	Login on into github account.
 41.	Create new public repository ‘freshersbatch-oct16’.
 42.	Commit & push any sample file to this repository under ‘Assignments’ directory.
+
 SECTION-4 (Pushing source code to remote repository using Eclipse GIT plugin) - Steps to follow:
 1.	One developer from project team will create eclipse projects ‘SampleProj’ & add sample source code files. Then commit all files through eclipse GIT plugin.
 2.	Collaborate other team members with your github account so that they can also modify the committed files. 
 3.	Other developers from same team will checkout all files from remote repository. This might get conflicts since certain files fail to merge. In such case, merge it manually.
+
+
 4.	Commit & push the ‘SampleProj’ project.
 
 
